@@ -3,7 +3,7 @@
     <img src="output\image.png" alt="logo" width="60%" height="20%">
   </a>
 
-<h3 align="center">Brain Tumor Classification Using Deep Learning Algorithms</h3>
+<h3 align="center">Load balancing Docker Containers using Nginx as a reverse proxy.</h3>
 
   <p align="center">
     Seattle University
