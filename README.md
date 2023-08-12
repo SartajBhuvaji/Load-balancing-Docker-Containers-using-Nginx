@@ -1,3 +1,22 @@
+
+<div align="center">
+    <img src="output\image.png" alt="logo" width="60%" height="20%">
+  </a>
+
+<h3 align="center">Brain Tumor Classification Using Deep Learning Algorithms</h3>
+
+  <p align="center">
+    Seattle University
+    <br />
+    <a href="https://github.com/SartajBhuvaji">Sartaj Bhuvaji</a>
+    
+    Distributed Systems : CPSC 5520 01
+    
+  </p>
+</div>
+
+
+
 # Description
 Load balancers distribute incoming traffic across multiple servers, preventing any one
 server from becoming overwhelmed and ensuring website availability and reliability. Using load
@@ -46,3 +65,11 @@ minutes 0.0.0.0:54721->5000/tcp docker-load-balancer-using-nginx-app-2
 minutes 0.0.0.0:54723->5000/tcp docker-load-balancer-using-nginx-app-1
 59f0b3e0b64a docker-load-balancer-using-nginx-app "/bin/sh -c 'gunicor…" 7 minutes ago Up 7
 minutes 0.0.0.0:54724->5000/tcp docker-load-balancer-using-nginx-app-3
+
+<div style="margin: 20px; display: inline-block;">
+  <img src="output\op1.jpg" alt="output1" width="60%" height="20%">
+</div>
+
+<div style="margin: 20px; display: inline-block;">
+  <img src="output\op2.jpg" alt="output2" width="60%" height="20%">
+</div>   
